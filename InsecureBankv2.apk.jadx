@@ -1,0 +1,53 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "InsecureBankv2.apk"
+  ],
+  "treeExpansionsV2": [
+    "c:com.android.insecurebankv2.DoTransfer"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.android.insecurebankv2.DoLogin",
+      "subPath": "java",
+      "caret": 1326,
+      "view": {
+        "x": 0,
+        "y": 342
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.android.insecurebankv2.DoTransfer",
+      "subPath": "java",
+      "caret": 1497,
+      "view": {
+        "x": 0,
+        "y": 642
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/levijcdf/.var/app/com.github.skylot.jadx/cache/jadx/projects/InsecureBankv2-fa7f555181db9e57d2d7b74e8079d5d9",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "url"
+  ],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
